@@ -4,6 +4,7 @@ export function Transactions() {
   return (
     <div>
       <Header />
+      <Transactions />
     </div>
   );
 }
